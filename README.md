@@ -16,7 +16,8 @@
 # M7 Serveis de xarxa
 
 ## UF0 - BASH i NETPLAN
-
+1. [Activitat amb l'interpret BASH](PDF/Activitats%20amb%20l'intèrpret%20Bash.pdf)
+2. [Activitat Netplan](PDF/Activitat%20Neptlan%20Jan.pdf)
 ## UF1 - DHCP i DNS
 1. [Practica 1 DHCP Annex](PDF/Annex.pdf)
 2. [Practica 2 DHCP](PDF/Practica2Real.pdf)
