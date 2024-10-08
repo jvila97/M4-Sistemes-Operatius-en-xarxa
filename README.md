@@ -4,4 +4,4 @@
 
 ### Activitats Windows Server
 
-· Hola
+[ACTIVITAT Visor d'esdeveniments](esdeveniments.md)
