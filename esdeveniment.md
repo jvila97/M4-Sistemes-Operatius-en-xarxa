@@ -20,5 +20,3 @@ Per exportar la vista personalitzada que heu creat, seguiu aquests passos:
 ### 4. Importar la vista personalitzada des d'una altra màquina virtual (MV)
 Per importar la vista personalitzada en una altra màquina, seguiu aquests passos:
 
-
-Aquesta documentació ha de ser accessible en línia i ha d'incloure captures de pantalla clares per facilitar la comprensió dels passos.
