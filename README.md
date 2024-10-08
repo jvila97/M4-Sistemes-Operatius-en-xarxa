@@ -4,4 +4,4 @@
 
 ### Activitats Windows Server
 
-[ACTIVITAT Visor d'esdeveniments](esdeveniments.md)
+[ACTIVITAT Visor d'esdeveniments](esdeveniment.md)
