@@ -4,8 +4,8 @@
 
 ### Activitats Windows Server
 1. [Documentacio WinServer](PDF/Documentacio%20WinServer%20Jan%20Vilaplana%20.pdf)
-2.[Sistemes de fitxers](PDF/Sistemes%20de%20fitxers.pdf)
-3.[Windows Servere Quest](PDF/Windows%20Server%20Quest.pdf)
+2. [Sistemes de fitxers](PDF/Sistemes%20de%20fitxers.pdf)
+3. [Windows Servere Quest](PDF/Windows%20Server%20Quest.pdf)
 4. [ACTIVITAT Visor d'esdeveniments](esdeveniment.md)
 
 ## UF2 - Sistemes operatius lliures en xarxa
