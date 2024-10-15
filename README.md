@@ -7,6 +7,7 @@
 2. [Sistemes de fitxers](PDF/Sistemes%20de%20fitxers.pdf)
 3. [Windows Servere Quest](PDF/Windows%20Server%20Quest.pdf)
 4. [ACTIVITAT Visor d'esdeveniments](esdeveniment.md)
+5. [Activitat programador de tasques](programador.md)
 
 ## UF2 - Sistemes operatius lliures en xarxa
 
