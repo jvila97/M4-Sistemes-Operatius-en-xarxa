@@ -7,8 +7,9 @@ Heu d'entregar una web accessible online explicant amb text i captures com feu e
 
 ### 1. Crear una vista personalitzada
 Per crear una vista personalitzada d'un esdeveniment al Visor d'Esdeveniments, seguiu aquests passos:
-
-
+![]()
+#### Obrim la nostra maquina virtual i busquem al buscador de Windows "Visor de eventos"
+!
 ### 2. Crear una tasca
 Per crear una tasca que s'executi quan un usuari iniciï sessió, seguiu aquests passos:
 
