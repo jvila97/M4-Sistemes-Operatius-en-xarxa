@@ -33,3 +33,6 @@
 ## UF1 Seguretat Passiva
 ### Lab's
 [Lab 1 ](lab1.md)
+
+### Projecte Maquines Conectades 
+[Projecte Proteccio Jan i Oscar]()
