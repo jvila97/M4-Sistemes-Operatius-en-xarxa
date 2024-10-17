@@ -27,3 +27,9 @@
 ## UF3 - WEB i PROXY
 
 ## UF4 - Acces remot 
+
+# M6 Seguretat Informatica
+
+## UF1 Seguretat Passiva
+### Lab's
+[Lab 1 ](lab1.md)
