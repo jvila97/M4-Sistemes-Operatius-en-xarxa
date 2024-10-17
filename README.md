@@ -35,4 +35,4 @@
 [Lab 1 ](lab1.md)
 
 ### Projecte Maquines Conectades 
-[Projecte Proteccio Jan i Oscar](PDF/Pro)
+[Projecte Proteccio Jan i Oscar](PDF/ProteccióProjecteJaniOscar.pdf)
