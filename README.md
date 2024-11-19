@@ -10,6 +10,7 @@
 5. [Activitat programador de tasques](programador.md)
 
 ## UF2 - Sistemes operatius lliures en xarxa
+1. [Instalació Ubuntu Desktop](PDF/activitatdesktop.pdf)
 
 ## UF3 - Comparticio de recursos i seguretat
 
@@ -37,3 +38,4 @@
 
 ### Projecte Maquines Conectades 
 [Projecte Proteccio Jan i Oscar](PDF/ProteccióProjecteJaniOscar.pdf)
+s
