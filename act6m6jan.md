@@ -17,4 +17,4 @@ Llistes activades:
 - P2P (bloqueja xarxes d'intercanvi d'arxius)
 - Ads (bloqueja servidors de publicitat)
 - Spyware (bloqueja IPs malicioses)
-'''
+```
