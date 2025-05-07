@@ -28,7 +28,6 @@ Ports bloquejats:
 • Totes les connexions entrants no autoritzades
 ```
 ### **📸 Captures Obligatòries**
-![act6peerblock](Capturas/Act7M6/llistapeerblock.png)
 ![blocks](Capturas/Act7_M6/blocks.png)
 ![act6peerblock](Capturas/Act7_M6/llistapeerblock.png)
 
@@ -74,5 +73,5 @@ powershell -ExecutionPolicy Bypass -File "C:\scripts\network_monitor.ps1"
 :: Assegurar permisos restringits
 icacls "C:\log_[nom]" /grant:r "admin_[nom]`:(OI)(CI)F" /remove "Tots"
 ```
-![script1](script1.png)
+![script1](Capturas/Act7_M6/script1.png)
 ![script2](script2.png)
