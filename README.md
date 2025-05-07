@@ -42,4 +42,4 @@
 [Projecte Proteccio Jan i Oscar](PDF/ProteccióProjecteJaniOscar.pdf)
 
 ### UF5 Firewalls
-- [Lab 6](act6m6jan)
+- [Lab 6](act6m6jan.md)
