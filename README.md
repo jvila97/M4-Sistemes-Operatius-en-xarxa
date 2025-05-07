@@ -40,6 +40,6 @@
 
 ### Projecte Maquines Conectades 
 [Projecte Proteccio Jan i Oscar](PDF/ProteccióProjecteJaniOscar.pdf)
-s
-UF5 Firewalls
-- [Lab 6](act6m6jan.md)
+
+### UF5 Firewalls
+- [Lab 6](act6m6jan)
