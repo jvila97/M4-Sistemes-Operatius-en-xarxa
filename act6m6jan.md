@@ -18,3 +18,4 @@ Llistes activades:
 - Ads (bloqueja servidors de publicitat)
 - Spyware (bloqueja IPs malicioses)
 ```
+### **🔒 Regles Específiques per XAMPP/WAMP**
