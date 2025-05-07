@@ -19,3 +19,11 @@ Llistes activades:
 - Spyware (bloqueja IPs malicioses)
 ```
 ### **🔒 Regles Específiques per XAMPP/WAMP**
+```powershell
+Ports permesos:
+• 80/TCP (HTTP)
+• 443/TCP (HTTPS)
+
+Ports bloquejats:
+• Totes les connexions entrants no autoritzades
+```
