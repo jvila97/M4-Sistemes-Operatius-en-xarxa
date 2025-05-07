@@ -12,7 +12,7 @@
 - Procés d'instal·lació estàndard (sense bloatware)
 
 ### 2. Configuració bàsica
-```bash
+'bash'
 Llistes activades:
 ✓ P2P (bloqueig xarxes compartició)
 ✓ Ads (bloqueig publicitat)
