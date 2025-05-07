@@ -28,7 +28,7 @@ Ports bloquejats:
 • Totes les connexions entrants no autoritzades
 ```
 ### **📸 Captures Obligatòries**
-[act6peerblock](Capturas/Act7M6/llistapeerblock.png)
+[act6peerblock](Capturas/Act7_M6/llistapeerblock.png)
 
 ## **💻 Part 2: Script de Monitorització en PowerShell**
 ### **📜 Codi Complet**
