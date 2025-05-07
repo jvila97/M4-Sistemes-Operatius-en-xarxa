@@ -27,3 +27,35 @@ Ports permesos:
 Ports bloquejats:
 • Totes les connexions entrants no autoritzades
 ```
+### **📸 Captures Obligatòries**
+[act6peerblock](act6peerblock.jpg)
+
+## **💻 Part 2: Script de Monitorització en PowerShell**
+### **📜 Codi Complet**
+```powershell
+# Script: network_monitor.ps1
+# Descripció: Registra estat de la xarxa
+
+$logDir = "C:\log_[nom]"
+$userAdmin = "admin_[nom]"
+
+# Crear carpeta segura
+if (-not (Test-Path $logDir)) {
+    New-Item -ItemType Directory -Path $logDir
+    icacls $logDir /grant:r "$userAdmin`:(OI)(CI)F" /remove "Tots"
+}
+
+# Generar informe
+$report = @"
+=== INFORMACIÓ DE XARXA ===
+$(ipconfig /all)
+
+=== TAULA D'ENCAMINAMENT ===
+$(route print)
+
+=== CONNEXIONS ACTIVES ===
+$(netstat -ano)
+"@
+
+$report | Out-File "$logDir\network_$(Get-Date -Format 'yyyyMMdd_HHmmss').txt"
+```
