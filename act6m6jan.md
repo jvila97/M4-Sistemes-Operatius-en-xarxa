@@ -61,3 +61,15 @@ $report | Out-File "$logDir\network_$(Get-Date -Format 'yyyyMMdd_HHmmss').txt"
 ```
 ### **⚡ Configurar Alias (Tecla X)**
 #### 1. Crear fitxer X.bat:
+```batch
+@echo off
+powershell -ExecutionPolicy Bypass -File "C:\scripts\network_monitor.ps1"
+```
+#### 2.Afegir al PATH o crear acces directe
+### **🔐 Permisos**
+```cmd
+:: Assegurar permisos restringits
+icacls "C:\log_[nom]" /grant:r "admin_[nom]`:(OI)(CI)F" /remove "Tots"
+```
+[script1](script1.png)
+[script2](script2.png)
