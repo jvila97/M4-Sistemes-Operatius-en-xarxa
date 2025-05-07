@@ -59,3 +59,5 @@ $(netstat -ano)
 
 $report | Out-File "$logDir\network_$(Get-Date -Format 'yyyyMMdd_HHmmss').txt"
 ```
+### **⚡ Configurar Alias (Tecla X)**
+#### 1. Crear fitxer X.bat:
