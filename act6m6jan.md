@@ -74,4 +74,4 @@ powershell -ExecutionPolicy Bypass -File "C:\scripts\network_monitor.ps1"
 icacls "C:\log_[nom]" /grant:r "admin_[nom]`:(OI)(CI)F" /remove "Tots"
 ```
 ![script1](Capturas/Act7_M6/script1.png)
-![script2](script2.png)
+![script2](Capturas/Act7_M6/script2.png)
